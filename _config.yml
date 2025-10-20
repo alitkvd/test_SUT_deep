@@ -6,14 +6,13 @@ course_semester: "Fall 2025"
 baseurl: "/test_SUT_deep" # the subpath of your site, e.g. /blog/
 url: "http://alitkvd.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Sharif"
+schoolname: "Sharif University of Technology"
 schoolurl: "https://sharif.edu"
-twitter_username: username 
+# twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Sharif University of Technology
+
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
