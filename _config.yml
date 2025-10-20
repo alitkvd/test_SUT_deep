@@ -1,6 +1,6 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_name: Deep Learning
+course_description: "Deep learning is a sub-field of machine learning that is based on learning several levels of representations, corresponding to a hierarchy of features or factors or concepts."
 course_semester: "Fall 2025"
 
 baseurl: "/test_SUT_deep" # the subpath of your site, e.g. /blog/
