@@ -20,12 +20,12 @@ teaching_assistants:
     webpage: https://github.com/sarinaheshmati
 
   - name: Emad Rostamian
-  profile_pic: /_images/pp/Rostamian.webp
-  webpage: https://github.com/Emadrust
+    profile_pic: /_images/pp/Rostamian.webp
+    webpage: https://github.com/Emadrust
 
   - name: Erfan Yeganegi
-  profile_pic: /_images/pp/yeganegi.jpg
-  webpage: https://github.com/alitkvd
+    profile_pic: /_images/pp/yeganegi.jpg
+    webpage: https://github.com/alitkvd
   
   - name: Fateme Akbari
     profile_pic: /_images/pp/Akbari.jpg
