@@ -1,7 +1,7 @@
 # Site settings
 course_name: Deep Learning
 course_description: "Deep learning is a sub-field of machine learning that is based on learning several levels of representations, corresponding to a hierarchy of features or factors or concepts."
-course_semester: "Fall 2026"
+course_semester: "Fall 2025"
 
 baseurl: "/test_SUT_deep" # the subpath of your site, e.g. /blog/
 url: "http://alitkvd.github.io/" # the base hostname & protocol for your site
