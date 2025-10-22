@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 1404-08-05
-title: "Vector space model"
-tldr: "Vector space model"
+title: Recurrent neural networks"
+tldr: "Recurrent neural networks"
 links: 
     - url: https://sharif.edu/~beigy/courses/14032/40324/Lect-6.pdf
       name: slides

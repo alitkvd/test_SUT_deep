@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 1404-08-03
-title: "Index compression"
-tldr: "Index compression"
+title: "Convolutional networks"
+tldr: "Convolutional networks"
 links: 
     - url: https://sharif.edu/~beigy/courses/14032/40324/Lect-5.pdf
       name: slides
