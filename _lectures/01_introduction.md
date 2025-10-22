@@ -1,17 +1,12 @@
 ---
-type: Lecture
-date: 2018-09-19T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec.jpg
+type: lecture
+date: 1404-07-19
+title: Introduction
+tldr: "Introduction"
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: https://sharif.edu/~beigy/courses/14032/40324/Lect-1.pdf
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [Chapter 1 of MRS](https://nlp.stanford.edu/IR-book/pdf/01bool.pdf)
+
