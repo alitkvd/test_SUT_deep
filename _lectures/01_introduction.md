@@ -1,5 +1,5 @@
 ---
-type: lecture
+type: Exam
 date: 1404-07-19
 title: Introduction
 tldr: "Introduction"
