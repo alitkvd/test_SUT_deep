@@ -1,6 +1,9 @@
 ---
 type: lecture
-date: 1404-07-21
+date: 
+  - 1404-07-21
+  - 1404-07-23
+
 title: "Boolean information retrieval and document preprocessingg"
 tldr: "Boolean information retrieval and document preprocessingg"
 links: 
