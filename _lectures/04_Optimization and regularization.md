@@ -4,9 +4,9 @@ date: 1404-07-28
 title: "Optimization and regularization"
 tldr: "Optimization and regularization"
 links: 
-    - url: https://sharif.edu/~beigy/courses/14032/40324/Lect-4.pdf
+    - url: https://sharif.edu/~beigy/courses/14031/40719/Lect-6to7.pdf
       name: slides
 ---
 
 **Suggested Readings:**
-- [Chapter 4 of MRS](https://nlp.stanford.edu/IR-book/pdf/04const.pdf)
+- [Chapters 7 & 8 of GYC, Chapters 8 & 9 of BSH, Papers given in the slides](https://nlp.stanford.edu/IR-book/pdf/04const.pdf)

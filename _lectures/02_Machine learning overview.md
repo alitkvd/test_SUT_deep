@@ -6,9 +6,9 @@ date:
 title: "Machine learning overviewg"
 tldr: "Machine learning overview"
 links: 
-    - url: https://sharif.edu/~beigy/courses/14032/40324/Lect-2.pdf
+    - url: https://sharif.edu/~beigy/courses/14031/40719/Lect-2to3.pdf
       name: slides
 ---
 
 **Suggested Readings:**
-- [Chapter 1 of GYC, Chapter 1 of CH, Chapter 1 of BSH](https://nlp.stanford.edu/IR-book/pdf/02voc.pdf)
+- [Chapter 5 of GYC](https://nlp.stanford.edu/IR-book/pdf/02voc.pdf)
